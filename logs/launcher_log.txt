@@ -1,0 +1,502 @@
+# Minecraft launcher log started at 2026-03-27 23:53:41
+# Profile: A&A S4 Test 
+
+
+[23:53:44] [main] [cpw.mods.modlauncher.Launcher/INFO]: ModLauncher running: args [--username, tuxmango, --version, 1.21.1, --gameDir, C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test, --assetsDir, C:\Users\Kruth\AppData\Roaming\ModrinthApp\meta\assets, --assetIndex, 17, --uuid, dd574e5b4b884cbc971739be934872a8, --accessToken, ❄❄❄❄❄❄❄❄, --clientId, c4502edb-87c6-40cb-b595-64a280cf8906, --xuid, 0, --userType, msa, --versionType, release, --width, 854, --height, 480, --fml.neoForgeVersion, 21.1.222, --fml.fmlVersion, 4.0.42, --fml.mcVersion, 1.21.1, --fml.neoFormVersion, 20240808.144430, --launchTarget, forgeclient]
+[23:53:44] [main] [cpw.mods.modlauncher.Launcher/INFO]: JVM identified as Azul Systems, Inc. OpenJDK 64-Bit Server VM 21.0.9+10-LTS
+[23:53:44] [main] [cpw.mods.modlauncher.Launcher/INFO]: ModLauncher 11.0.5+main.901c6ea8 starting: java version 21.0.9 by Azul Systems, Inc.; OS Windows 11 arch amd64 version 10.0
+[23:53:44] [main] [net.neoforged.fml.loading.ImmediateWindowHandler/INFO]: Loading ImmediateWindowProvider fmlearlywindow
+[23:53:44] [main] [EARLYDISPLAY/INFO]: Trying GL version 4.6
+[23:53:45] [main] [EARLYDISPLAY/INFO]: Requested GL version 4.6 got version 4.6
+[23:53:46] [pool-2-thread-1] [EARLYDISPLAY/INFO]: GL info: Intel(R) UHD Graphics GL version 4.6.0 - Build 32.0.101.7080, Intel
+[23:53:46] [main] [CrashAssistantJarInJarHelper/WARN]: Stream injection failed; legacy loggers may retain blocking behavior.
+[23:53:46] [main] [CrashAssistantJarInJarHelper/INFO]: Launching CrashAssistantApp (CrashAssistant-neoforge-1.20.6-1.21.4-1.11.3.jar)
+[23:53:47] [main] [mixin/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=union:/C:/Users/Kruth/AppData/Roaming/ModrinthApp/meta/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar%23166!/ Service=ModLauncher Env=CLIENT
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "client-1.21.1-20240808.144430-srg.jar" [locator: production client provider +net.neoforged:neoforge:21.1.222:client]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "neoforge-21.1.222-universal.jar" [locator: PathBasedLocator[name=neoforge, paths=[C:\Users\Kruth\AppData\Roaming\ModrinthApp\meta\libraries\net\neoforged\neoforge\21.1.222\neoforge-21.1.222-universal.jar]], reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "amendments-1.21-2.0.15-neoforge.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "appleskin-neoforge-mc1.21-3.0.8.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "architectury-13.0.8-neoforge.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "ArmorStatues-v21.1.0-1.21.1-NeoForge.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "athena-neoforge-1.21-4.0.2.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "BadOptimizations-2.4.1-1.21.1.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "baguettelib-1.21.1-NeoForge-1.1.6.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "balm-neoforge-1.21.1-21.0.56.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "bellsandwhistles-0.4.7-1.21.1.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "BetterF3-11.0.3-NeoForge-1.21.1.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "bits_n_bobs-0.0.44.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "bookshelf-neoforge-1.21.1-21.1.81.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "carryon-neoforge-1.21.1-2.2.4.4.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "chat_heads-0.15.0-neoforge-1.21.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "chipped-neoforge-1.21.1-4.0.2.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "Clumps-neoforge-1.21.1-19.0.0.1.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "Controlling-neoforge-1.21.1-19.0.5.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "copperagebackport-neoforge-1.21.1-0.1.4.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "copycats-3.0.4+mc.1.21.1-neoforge.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "coroutil-neoforge-1.21.0-1.3.8.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "corpse-neoforge-1.21.1-1.1.13.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "corpsecurioscompat-1.21.1-NeoForge-3.1.3.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "cosmeticarmorreworked-1.21.1-v1-neoforge.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "cosmeticcorpsecompat-1.21.1-NeoForge--1.0.0.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "craftingtweaks-neoforge-1.21.1-21.1.7.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "Create Encased-1.21.1-1.8-ht2.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "create-1.21.1-6.0.9.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "create-access-denied-0.0.4-mc1.21.1-c6.0.6.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "create-confectionery1.21.1_v1.1.2.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "create-dragons-plus-1.8.7.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "create-enchantment-industry-2.3.0.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "create-shufflefilter-2.0.1-neo.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "create_connected-1.1.13-mc1.21.1.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "create_factory_logistics-1.21.1-1.4.9.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "create_pattern_schematics-2.0.10.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "create_trimmed.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "create_vibrant_vaults-0.3.2.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "createadditionallogistics-1.21.1-1.4.5.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "createbetterfps-1.21.1-1.1.3.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "createcobblestone-1.4.9+neoforge-1.21.1-130.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "createdeco-2.1.2-1.21.1-neo.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "createenchantablemachinery-3.6.0+mc1.21.1-neoforge.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "CreateEntityControl-0.3.8.4-6.0.x-neoforge-1.21.1.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "createliquidfuel-2.1.1-1.21.1.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "createmetalogistics-1.21.1-0.4.6.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "CreateNumismatics-1.0.19+neoforge-mc1.21.1.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "createsa_tank_fix-1.3.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "createunlimitedlogistics-1.2.1.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "cupboard-1.21-2.9.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "curios-neoforge-9.5.1+1.21.1.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "discord_chat_mod-neoforge-1.21.1-2.6.2.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "dragonlib-neoforge-1.21.1-beta-3.0.24.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "drippyloadingscreen_neoforge_3.1.0_MC_1.21.1.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "emi-1.1.22+1.21.1+neoforge.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "emi_enchanting-0.1.2+1.21+neoforge.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "emi_loot-0.7.9+1.21+neoforge.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "Emojiful-Neoforge-1.21-5.2.2-all.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "entityculling-neoforge-1.10.0-mc1.21.1.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "EntityRenderDisabler-NeoForge-1.21.1-1.3.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "etched-5.0.1.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "extra_gauges-2.0.6.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "fancymenu_neoforge_3.8.1_MC_1.21.1.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "FarmersDelight-1.21.1-1.2.11.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "ferritecore-7.0.3-neoforge.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "freecam-neoforge-1.3.0+mc1.21.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "fusion-1.2.12-neoforge-mc1.21.1.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "fzzy_config-0.7.6+1.21+neoforge.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "gjeb-neoforge-1.21.1-1.3.0.40.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "handcrafted-neoforge-1.21.1-4.0.3.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "immersive_paintings-neoforge-1.21.1-0.7.6.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "iris-neoforge-1.8.12+mc1.21.1.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "Jade-1.21.1-NeoForge-15.10.5.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "JadeAddons-1.21.1-NeoForge-6.1.0.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "jei-1.21.1-neoforge-19.27.0.340.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "konkrete_neoforge_1.9.9_MC_1.21.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found library file "kotlinforforge-5.11.0-all.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "krypton_fnp-neoforge-1.21.1-0.2.28.1-1.21.1.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "kube-utils-21.1.3.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "kubejs-create-neoforge-2101.3.1-build.18.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "kubejs-neoforge-2101.7.2-build.348.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "lithium-neoforge-0.15.3+mc1.21.1.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "maplink-neoforge-4.4.0-1.21-1.21.1.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "melody_neoforge_1.0.10_MC_1.21.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "modernfix-neoforge-5.26.1+mc1.21.1.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "moonlight-1.21-2.29.23-neoforge.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "moreculling-neoforge-1.21.1-1.0.7.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "morejs-neoforge-1.21.1-0.16.0.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "MouseTweaks-neoforge-mc1.21-2.26.1.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:48] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "MyNethersDelight-1.21.1-1.9.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:49] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "NaturesCompass-1.21.1-3.0.3-neoforge.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:49] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:49] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "packetfixer-3.3.1-1.20.5-1.21.X-merged.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:49] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "Platform-neoforge-1.21.1-1.3.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:49] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "polymorph-neoforge-1.1.0+1.21.1.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:49] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "ponderjs-neoforge-1.21.1-2.4.0.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:49] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "prickle-neoforge-1.21.1-21.1.11.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:49] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "PuzzlesLib-v21.1.39-1.21.1-NeoForge.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:49] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "railways-0.1.0+neoforge-mc1.21.1.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:49] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "rechiseled-1.2.4-neoforge-mc1.21.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:49] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "rechiseledcreate-1.1.0-neoforge-mc1.21.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:49] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:49] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "resourcefullib-neoforge-1.21-3.0.12.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:49] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "rhino-2101.2.7-build.81.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:49] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "Searchables-neoforge-1.21.1-1.0.2.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:49] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "shulkerboxtooltip-neoforge-5.1.9+1.21.1.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:49] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "smart_bounds-1.0.0.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:49] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "sodium-extra-neoforge-0.6.0+mc1.21.1.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:49] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "sodium-neoforge-0.6.13+mc1.21.1.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:49] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:49] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "sodiumleafculling-neoforge-1.0.1-1.21.1.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:49] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:49] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "spiffyhud_neoforge_3.1.0_MC_1.21.1.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:49] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "StrawStatues-v21.1.0-1.21.1-NeoForge.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:49] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "supermartijn642configlib-1.1.8-neoforge-mc1.21.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:49] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "supermartijn642corelib-1.1.21-neoforge-mc1.21.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:49] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "supplementaries-1.21-3.5.27-neoforge.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:49] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "suppsquared-1.21-1.2.17-neoforge.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:49] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "trading_floor-3.0.16.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:49] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "trashcans-1.0.18c-neoforge-mc1.21.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:49] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "VanillaBackport-neoforge-1.21.1-1.1.6.2.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:49] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "voicechat-neoforge-1.21.1-2.6.13.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:49] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "watut-neoforge-1.21.0-1.2.7.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:49] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "xaerominimap-neoforge-1.21.1-25.3.10.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:49] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "xaeroworldmap-neoforge-1.21.1-1.40.11.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:49] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar" [locator: {mods folder locator at C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods}, reader: mod manifest]
+[23:53:49] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "crash_assistant-neoforge.jar" [parent: , locator: jarinjar, reader: mod manifest]
+[23:53:50] [main] [net.neoforged.jarjar.selection.JarSelector/WARN]: Attempted to select two dependency jars from JarJar which have the same identification: Nested Mod File  in Mod File: C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods\create-dragons-plus-1.8.7.jar and Nested Mod File  in Mod File: C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods\moreculling-neoforge-1.21.1-1.0.7.jar. Using Nested Mod File  in Mod File: C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods\create-dragons-plus-1.8.7.jar
+[23:53:50] [main] [net.neoforged.jarjar.selection.JarSelector/WARN]: Attempted to select a dependency jar for JarJar which was passed in as source: architectury. Using Mod File: C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test\mods\architectury-13.0.8-neoforge.jar
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.locators.JarInJarDependencyLocator/INFO]: Found 57 dependencies adding them to mods collection
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "kuma-api-neoforge-21.0.7+1.21.jar" [parent: balm-neoforge-1.21.1-21.0.56.jar, locator: jarinjar, reader: mod manifest]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "fabric-renderer-api-v1-3.4.0+acb05a3919.jar" [parent: iris-neoforge-1.8.12+mc1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found library file "sewlia-config-1.0.0-20250810.044244-13.jar" [parent: krypton_fnp-neoforge-1.21.1-0.2.28.1-1.21.1.jar, locator: jarinjar]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "ponder-neoforge-1.0.81+mc1.21.1.jar" [parent: ponderjs-neoforge-1.21.1-2.4.0.jar, locator: jarinjar, reader: mod manifest]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found library file "net.neoforged.neoforge-coremods-21.1.222.jar" [parent: neoforge-21.1.222-universal.jar, locator: jarinjar, reader: mod manifest]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "xaerolib-neoforge-1.21.1-1.1.0.jar" [parent: xaerominimap-neoforge-1.21.1-25.3.10.jar, locator: jarinjar, reader: mod manifest]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found library file "MixinSquared-0.2.0.jar" [parent: mixinsquared-neoforge-0.2.0.jar, locator: jarinjar]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "TRender-1.0.11-1.21.1-neoforge-SNAPSHOT.jar" [parent: entityculling-neoforge-1.10.0-mc1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found library file "kotlinx-coroutines-core-jvm-1.10.2.jar" [parent: kotlinforforge-5.11.0-all.jar, locator: jarinjar]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "fabric-block-view-api-v2-1.0.10+9afaaf8c19.jar" [parent: iris-neoforge-1.8.12+mc1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found library file "yabn-1.0.3.jar" [parent: resourcefullib-neoforge-1.21-3.0.12.jar, locator: jarinjar]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found library file "net.caffeinemc.sodium-neoforge-0.6.13+mc1.21.1-service.jar" [parent: sodium-neoforge-0.6.13+mc1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found library file "kotlinx-coroutines-jdk8-1.10.2.jar" [parent: kotlinforforge-5.11.0-all.jar, locator: jarinjar]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "statuemenus-neoforge-21.1.0.jar" [parent: ArmorStatues-v21.1.0-1.21.1-NeoForge.jar, locator: jarinjar, reader: mod manifest]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found library file "kotlin-stdlib-jdk7-2.3.0.jar" [parent: kotlinforforge-5.11.0-all.jar, locator: jarinjar]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found library file "battery-2.0.0.jar" [parent: dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar, locator: jarinjar]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found library file "kotlin-stdlib-jdk8-2.3.0.jar" [parent: kotlinforforge-5.11.0-all.jar, locator: jarinjar]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found library file "yamlbeans-1.17.jar" [parent: Emojiful-Neoforge-1.21-5.2.2-all.jar, locator: jarinjar]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found library file "animated-gif-lib-for-java-animated-gif-lib-1.7.jar" [parent: fancymenu_neoforge_3.8.1_MC_1.21.1.jar, locator: jarinjar]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "cloth-config-neoforge-15.0.128-neoforge.jar" [parent: freecam-neoforge-1.3.0+mc1.21.jar, locator: jarinjar, reader: mod manifest]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found library file "common-image-3.12.0.jar" [parent: yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar, locator: jarinjar]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found library file "bytecodecs-1.1.2.jar" [parent: resourcefullib-neoforge-1.21-3.0.12.jar, locator: jarinjar]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found library file "kotlinx-serialization-json-jvm-1.9.0.jar" [parent: kotlinforforge-5.11.0-all.jar, locator: jarinjar]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found library file "snakeyaml-2.4.jar" [parent: krypton_fnp-neoforge-1.21.1-0.2.28.1-1.21.1.jar, locator: jarinjar]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found library file "jankson-1.2.3.jar" [parent: fzzy_config-0.7.6+1.21+neoforge.jar, locator: jarinjar]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found gamelibrary file "mixinextras-neoforge-0.5.3.jar" [parent: neoforge-21.1.222-universal.jar, locator: jarinjar, reader: mod manifest]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "fabric-api-base-0.4.42+d1308ded19.jar" [parent: iris-neoforge-1.8.12+mc1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found library file "jlayer-1.0.3.jar" [parent: etched-5.0.1.jar, locator: jarinjar]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found gamelibrary file "mixinsquared-neoforge-0.2.0.jar" [parent: moreculling-neoforge-1.21.1-1.0.7.jar, locator: jarinjar, reader: mod manifest]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found library file "thedarkcolour.kfflang-5.11.0.jar" [parent: kotlinforforge-5.11.0-all.jar, locator: jarinjar, reader: mod manifest]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found library file "imageio-metadata-3.12.0.jar" [parent: yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar, locator: jarinjar]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found gamelibrary file "thedarkcolour.kfflib-5.11.0.jar" [parent: kotlinforforge-5.11.0-all.jar, locator: jarinjar, reader: mod manifest]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "forgeconfigapiport-neoforge-21.1.1.jar" [parent: dragonlib-neoforge-1.21.1-beta-3.0.24.jar, locator: jarinjar, reader: mod manifest]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found library file "jcpp-1.4.14.jar" [parent: iris-neoforge-1.8.12+mc1.21.1.jar, locator: jarinjar]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "thedarkcolour.kffmod-5.11.0.jar" [parent: kotlinforforge-5.11.0-all.jar, locator: jarinjar, reader: mod manifest]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found library file "gson-0.2.1.jar" [parent: yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar, locator: jarinjar]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found library file "kotlin-reflect-2.3.0.jar" [parent: kotlinforforge-5.11.0-all.jar, locator: jarinjar]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found library file "kotlin-stdlib-2.3.0.jar" [parent: kotlinforforge-5.11.0-all.jar, locator: jarinjar]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "flywheel-neoforge-1.21.1-1.0.6.jar" [parent: create-1.21.1-6.0.9.jar, locator: jarinjar, reader: mod manifest]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found library file "velocity-native-3.4.0-SNAPSHOT.jar" [parent: krypton_fnp-neoforge-1.21.1-0.2.28.1-1.21.1.jar, locator: jarinjar]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found library file "glsl-transformer-2.0.1.jar" [parent: iris-neoforge-1.8.12+mc1.21.1.jar, locator: jarinjar]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found library file "tomlkt-jvm-0.3.7.jar" [parent: fzzy_config-0.7.6+1.21+neoforge.jar, locator: jarinjar]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found library file "json-0.2.1.jar" [parent: yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar, locator: jarinjar]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found library file "common-io-3.12.0.jar" [parent: yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar, locator: jarinjar]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found gamelibrary file "mixinsquared-forge-0.1.1.jar" [parent: supplementaries-1.21-3.5.27-neoforge.jar, locator: jarinjar, reader: mod manifest]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "conditional-mixin-neoforge-0.6.4.jar" [parent: create-dragons-plus-1.8.7.jar, locator: jarinjar, reader: mod manifest]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "TRansition-1.0.14-1.21.1-neoforge-SNAPSHOT.jar" [parent: entityculling-neoforge-1.10.0-mc1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found library file "Reflect-1.6.1+curseforge.jar" [parent: ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar, locator: jarinjar]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "fabric-rendering-data-attachment-v1-0.3.48+73761d2e19.jar" [parent: iris-neoforge-1.8.12+mc1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found library file "imageio-webp-3.12.0.jar" [parent: yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar, locator: jarinjar]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found library file "kotlinx-serialization-core-jvm-1.9.0.jar" [parent: kotlinforforge-5.11.0-all.jar, locator: jarinjar]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found gamelibrary file "Registrate-MC1.21-1.3.0+67.jar" [parent: create-1.21.1-6.0.9.jar, locator: jarinjar, reader: mod manifest]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found library file "japng-0.5.3.jar" [parent: fancymenu_neoforge_3.8.1_MC_1.21.1.jar, locator: jarinjar]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found mod file "create_factory_abstractions-1.21.1-1.4.9.jar" [parent: create_factory_logistics-1.21.1-1.4.9.jar, locator: jarinjar, reader: mod manifest]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found library file "tiny-java-server-1.0.0-build.33.jar" [parent: kubejs-neoforge-2101.7.2-build.348.jar, locator: jarinjar]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found library file "common-lang-3.12.0.jar" [parent: yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar, locator: jarinjar]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Found library file "imageio-core-3.12.0.jar" [parent: yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar, locator: jarinjar]
+[23:53:50] [main] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/INFO]: Mod List:
+		Name Version (Mod Id)
+
+		Amendments 1.21-2.0.15 (amendments)
+		AppleSkin 3.0.8+mc1.21 (appleskin)
+		Architectury 13.0.8 (architectury)
+		Armor Statues 21.1.0 (armorstatues)
+		Athena 4.0.2 (athena)
+		BadOptimizations 2.4.1 (badoptimizations)
+		BaguetteLib 1.1.6 (baguettelib)
+		Balm 21.0.56 (balm)
+		Better Advancements 0.4.3.21 (betteradvancements)
+		BetterF3 11.0.3 (betterf3)
+		Bookshelf 21.1.81 (bookshelf)
+		Carry On 2.2.4 (carryon)
+		Chat Heads 0.15.0 (chat_heads)
+		Chipped 4.0.2 (chipped)
+		Cloth Config v15 API 15.0.128 (cloth_config)
+		Clumps 19.0.0.1 (clumps)
+		conditional mixin 0.6.4 (conditional_mixin)
+		Controlling 19.0.5 (controlling)
+		Copper Age Backport 0.1.4 (copperagebackport)
+		CoroUtil 1.21.0-1.3.8 (coroutil)
+		Corpse 1.21.1-1.1.13 (corpse)
+		Corpse Curios Compatibility 3.1.3 (corpsecurioscompat)
+		CosmeticArmorReworked 1.21.1-v1-neoforge (cosmeticarmorreworked)
+		cosmeticcorpsecompat 1.0.0 (cosmeticcorpsecompat)
+		Crafting Tweaks 21.1.7 (craftingtweaks)
+		Crash Assistant 1.11.3 (crash_assistant)
+		Create 6.0.9 (create)
+		Create Bits 'n' Bobs 0.0.44 (bits_n_bobs)
+		Create cobblestone 1.4.9+neoforge-1.21.1-130 (createcobblestone)
+		Create Confectionery 1.1.2 (create_confectionery)
+		Create Deco 2.1.2 (createdeco)
+		Create Encased 1.8-ht2 (createcasing)
+		Create Factory Abstractions 1.4.9 (create_factory_abstractions)
+		Create Factory Logistics 1.4.9 (create_factory_logistics)
+		Create Liquid Fuel 2.1.1-1.21.1 (createliquidfuel)
+		Create Shuffle Filter 2.0.1 (createshufflefilter)
+		Create Stuff and Addition Tank Fix 1.3 (createsa_tank_fix)
+		Create: Access Denied 0.0.4 (create_access_denied)
+		Create: Additional Logistics 1.4.5 (createadditionallogistics)
+		Create: Bells & Whistles 0.4.7-1.21.1 (bellsandwhistles)
+		Create: Connected 1.1.13-mc1.21.1 (create_connected)
+		Create: Copycats+ 3.0.4+mc.1.21.1-neoforge (copycats)
+		Create: Dragons Plus 1.8.7 (create_dragons_plus)
+		Create: Enchantable Machinery 3.6.0 (createenchantablemachinery)
+		Create: Enchantment Industry 2.3.0 (create_enchantment_industry)
+		Create: Extra Gauges 2.0.6 (extra_gauges)
+		Create: Meta Logistics 0.4.6 (createmetalogistics)
+		Create: Numismatics 1.0.19+neoforge-mc1.21.1 (numismatics)
+		Create: Pattern Schematics 2.0.10 (create_pattern_schematics)
+		Create: Smart Bounds 1.0.0 (smart_bounds)
+		Create: Steam 'n' Rails 1.21.1 0.1.0+neoforge-mc1.21.1 (railways)
+		Create: Trading Floor 3.0.16 (trading_floor)
+		Create: Trimmed 1.0.1 (create_trimmed)
+		Create: Unlimited Logistics 1.2.1 (createunlimitedlogistics)
+		Create: Vibrant Vaults 0.3.2 (create_vibrant_vaults)
+		Create:Entity Control 0.3.8.4-6.0.x (createentitycontrol)
+		CreateBetterFps 1.1.3 (createbetterfps)
+		Cupboard mod 2.9 (cupboard)
+		Curios API 9.5.1+1.21.1 (curios)
+		Discord & Chat Images 2.6.2 (discord_chat_mod)
+		DragonLib 1.21.1-beta-3.0.24 (dragonlib)
+		Drippy Loading Screen 3.1.0 (drippyloadingscreen)
+		Dynamic FPS 3.11.4 (dynamic_fps)
+		EMI 1.1.22+1.21.1+neoforge (emi)
+		EMI Enchanting 0.1.2+1.21+neoforge (emi_enchanting)
+		EMI Loot 0.7.9+1.21+neoforge (emi_loot)
+		Emojiful 5.2.2 (emojiful)
+		EntityCulling 1.10.0 (entityculling)
+		EntityRenderDisabler-NeoForge 1.3 (entityrenderdisablerneoforge)
+		Etched 5.0.1 (etched)
+		FancyMenu 3.8.1 (fancymenu)
+		Farmer's Delight 1.2.11 (farmersdelight)
+		Ferrite Core 7.0.3 (ferritecore)
+		Flywheel 1.0.6 (flywheel)
+		Forge Config API Port 21.1.1 (forgeconfigapiport)
+		Forgified Fabric API Base 0.4.42+d1308ded19 (fabric_api_base)
+		Forgified Fabric BlockView API (v2) 1.0.10+9afaaf8c19 (fabric_block_view_api_v2)
+		Forgified Fabric Renderer API (v1) 3.4.0+acb05a3919 (fabric_renderer_api_v1)
+		Forgified Fabric Rendering Data Attachment (v1) 0.3.48+73761d2e19 (fabric_rendering_data_attachment_v1)
+		Freecam 1.3.0+mc1.21 (freecam)
+		Fusion 1.2.12 (fusion)
+		Fzzy Config 0.7.6+1.21+neoforge (fzzy_config)
+		GJEB (GammaJustExtremeBright) 1.3.0.40 (gjeb)
+		Handcrafted 4.0.3 (handcrafted)
+		ImmediatelyFast 1.6.10+1.21.1 (immediatelyfast)
+		Immersive Paintings 0.7.6 (immersive_paintings)
+		Iris 1.8.12-snapshot+mc1.21.1-local (iris)
+		Jade 15.10.5+neoforge (jade)
+		Jade Addons 6.1.0+neoforge (jadeaddons)
+		Just Enough Items 19.27.0.340 (jei)
+		Konkrete 1.9.9 (konkrete)
+		Kotlin For Forge 5.11.0 (kotlinforforge)
+		Krypton FNP 0.2.28.1-1.21.1 (krypton_fnp)
+		KubeJS 2101.7.2-build.348 (kubejs)
+		KubeJS Create 2101.3.1-build.18 (kubejs_create)
+		KubeUtils 21.1.3 (kubeutils)
+		KumaAPI 21.0.7 (kuma_api)
+		Lithium 0.15.3+mc1.21.1 (lithium)
+		Map Link 4.4.0 (maplink)
+		Melody 1.0.10 (melody)
+		Minecraft 1.21.1 (minecraft)
+		ModernFix 5.26.1+mc1.21.1 (modernfix)
+		Moonlight Lib 1.21-2.29.23 (moonlight)
+		More Culling 1.0.7 (moreculling)
+		MoreJS 1.21.1-0.16.0 (morejs)
+		Mouse Tweaks 2.26.1 (mousetweaks)
+		My Nether's Delight 1.9 (mynethersdelight)
+		Nature's Compass 1.21.1-3.0.2-neoforge (naturescompass)
+		NeoForge 21.1.222 (neoforge)
+		No Chat Reports 1.21.1-v2.9.1 (nochatreports)
+		PacketFixer 3.3.1 (packetfixer)
+		Platform 1.3 (platform)
+		Polymorph 1.1.0+1.21.1 (polymorph)
+		Ponder 1.0.81+mc1.21.1 (ponder)
+		PonderJS 1.21.1-2.4.0 (ponderjs)
+		PrickleMC 21.1.11 (prickle)
+		Puzzles Lib 21.1.39 (puzzleslib)
+		Rechiseled 1.2.4 (rechiseled)
+		Rechiseled: Create 1.1.0 (rechiseledcreate)
+		Reese's Sodium Options 1.8.3+mc1.21.4 (reeses_sodium_options)
+		Resourceful Lib 3.0.12 (resourcefullib)
+		Rhino 2101.2.7-build.81 (rhino)
+		Searchables 1.0.2 (searchables)
+		ShulkerBoxTooltip 5.1.9+1.21.1 (shulkerboxtooltip)
+		Simple Voice Chat 1.21.1-2.6.13 (voicechat)
+		Sodium 0.6.13+mc1.21.1 (sodium)
+		Sodium Dynamic Lights 1.0.9 (sodiumdynamiclights)
+		Sodium Extra 0.6.0+mc1.21.1 (sodium_extra)
+		Sodium Leaf Culling 1.0.1 (sodiumleafculling)
+		Sodium Options API 1.0.10 (sodiumoptionsapi)
+		SpiffyHUD 3.1.0 (spiffyhud)
+		Statue Menus 21.1.0 (statuemenus)
+		Straw Statues 21.1.0 (strawstatues)
+		SuperMartijn642's Config Library 1.1.8 (supermartijn642configlib)
+		SuperMartijn642's Core Lib 1.1.21 (supermartijn642corelib)
+		Supplementaries 1.21-3.5.26 (supplementaries)
+		Supplementaries Squared 1.21-1.2.17 (suppsquared)
+		TRansition 1.0.14 (transition)
+		Trash Cans 1.0.18+c (trashcans)
+		TRender 1.0.11 (trender)
+		VanillaBackport 1.1.6.2 (vanillabackport)
+		What Are They Up To 1.21.0-1.2.7 (watut)
+		Xaero's Minimap 25.3.10 (xaerominimap)
+		Xaero's World Map 1.40.11 (xaeroworldmap)
+		XaeroLib 1.1.0 (xaerolib)
+		YetAnotherConfigLib 3.8.2+1.21.1-neoforge (yet_another_config_lib_v3)
+[23:53:51] [main] [net.neoforged.fml.loading.FMLServiceProvider/INFO]: Loading coremod script-engine for [xaeroworldmap, xaerominimap]
+[23:53:56] [main] [mixin/INFO]: Compatibility level set to JAVA_17
+[23:53:56] [main] [mixin/INFO]: Compatibility level set to JAVA_21
+[23:53:57] [main] [cpw.mods.modlauncher.LaunchServiceHandler/INFO]: Launching target 'forgeclient' with arguments [--version, 1.21.1, --gameDir, C:\Users\Kruth\AppData\Roaming\ModrinthApp\profiles\A&A S4 Test, --assetsDir, C:\Users\Kruth\AppData\Roaming\ModrinthApp\meta\assets, --uuid, dd574e5b4b884cbc971739be934872a8, --username, tuxmango, --assetIndex, 17, --accessToken, ❄❄❄❄❄❄❄❄, --clientId, c4502edb-87c6-40cb-b595-64a280cf8906, --xuid, 0, --userType, msa, --versionType, release, --width, 854, --height, 480]
+[23:53:57] [main] [mixin/WARN]: Reference map 'kuma_api.refmap.json' for kuma_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:57] [main] [mixin/WARN]: Reference map 'create_access_denied.refmap.json' for create_access_denied.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:57] [main] [Sodium Extra Config/INFO]: Loaded configuration file for Sodium Extra: 36 options available, 0 override(s) found
+[23:53:57] [main] [mixin/WARN]: Reference map 'sodium-extra.refmap.json' for sodium-extra.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:57] [main] [mixin/WARN]: Reference map 'xaeroworldmap.refmap.json' for xaeroworldmap.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:57] [main] [mixin/WARN]: Reference map 'controlling.refmap.json' for controlling.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:57] [main] [mixin/WARN]: Reference map 'controlling.refmap.json' for controlling.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:57] [main] [ModernFix/INFO]: Loaded configuration file for ModernFix 5.26.1+mc1.21.1: 78 options available, 0 override(s) found
+[23:53:57] [main] [ModernFix/INFO]: Applying Nashorn fix
+[23:53:57] [main] [ModernFix/INFO]: Configuring Minecraft's max.bg.threads option with 3 threads
+[23:53:57] [main] [mixin/WARN]: Reference map 'modernfix.refmap.json' for modernfix-modernfix.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:57] [main] [mixin/WARN]: Reference map 'mixins.create_factory_logistics.refmap.json' for mixins.create_factory_logistics.json could not be read. If this is a development environment you can ignore this message
+[23:53:57] [main] [one.pkg.config.SewliaConfig/INFO]: All configurations saved
+[23:53:57] [main] [one.pkg.config.SewliaConfig/INFO]: Reloaded configuration: ModConfig
+[23:53:57] [main] [one.pkg.config.SewliaConfig/INFO]: Successfully initialized configuration manager, loaded 1 configuration classes
+[23:53:57] [main] [mixin/WARN]: Reference map '' for krypton_fnp.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:57] [main] [mixin/WARN]: Reference map '' for createsa_tank_fix.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:57] [main] [mixin/WARN]: Reference map 'iris.refmap.json' for mixins.iris.json could not be read. If this is a development environment you can ignore this message
+[23:53:57] [main] [mixin/WARN]: Reference map 'iris.refmap.json' for mixins.iris.fantastic.json could not be read. If this is a development environment you can ignore this message
+[23:53:57] [main] [mixin/WARN]: Reference map 'iris.refmap.json' for mixins.iris.vertexformat.json could not be read. If this is a development environment you can ignore this message
+[23:53:57] [main] [mixin/WARN]: Reference map 'iris.refmap.json' for iris-batched-entity-rendering.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:57] [main] [mixin/WARN]: Reference map 'iris.refmap.json' for mixins.iris.compat.sodium.json could not be read. If this is a development environment you can ignore this message
+[23:53:57] [main] [mixin/WARN]: Reference map 'bookshelf.refmap.json' for bookshelf.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:57] [main] [mixin/WARN]: Reference map 'balm.refmap.json' for balm.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:57] [main] [mixin/WARN]: Reference map 'prickle.refmap.json' for prickle.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:57] [main] [mixin/WARN]: Reference map 'createbetterfps.refmap.json' for createbetterfps.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:57] [main] [mixin/WARN]: Reference map 'carryon.refmap.json' for carryon.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:57] [main] [mixin/WARN]: Reference map 'melody.refmap.json' for melody.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:57] [main] [mixin/WARN]: Reference map 'melody.refmap.json' for melody.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:57] [main] [mixin/WARN]: Reference map '' for chat_heads.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:57] [main] [mixin/WARN]: Reference map 'crash_assistant.refmap.json' for crash_assistant.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:57] [main] [mixin/WARN]: Reference map 'emojiful.refmap.json' for emojiful.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:57] [main] [mixin/WARN]: Reference map 'konkrete.refmap.json' for konkrete.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:57] [main] [mixin/WARN]: Reference map 'konkrete.refmap.json' for konkrete.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:57] [main] [mixin/WARN]: Reference map 'create_connected.refmap.json' for create_connected.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:57] [main] [mixin/WARN]: Reference map 'copperagebackport.neoforge.refmap.json' for copperagebackport.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:57] [main] [mixin/WARN]: Reference map 'supermartijn642corelib.mixins.refmap.json' for supermartijn642corelib.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:57] [main] [mixin/WARN]: Reference map 'reeses-sodium-options.refmap.json' for reeses-sodium-options.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:57] [main] [mixin/WARN]: Reference map 'curios.refmap.json' for curios.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:57] [main] [mixin/WARN]: Reference map 'curios.refmap.json' for curios.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:57] [main] [mixin/WARN]: Reference map '${mod_id}.refmap.json' for trading_floor.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:57] [main] [mixin/WARN]: Reference map 'searchables.refmap.json' for searchables.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:57] [main] [mixin/WARN]: Reference map 'searchables.refmap.json' for searchables.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:57] [main] [mixin/WARN]: Reference map 'CreateLiquidFuel.refmap.json' for createliquidfuel.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:57] [main] [mixin/WARN]: Reference map 'cupboard.refmap.json' for cupboard.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:58] [main] [mixin/WARN]: Reference map 'jadeaddons.refmap.json' for jadeaddons.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:58] [main] [mixin/WARN]: Reference map '${mod_id}.refmap.json' for bits_n_bobs.mixins.json could not be read. If this is a development environment you can ignore this message
+[Lithium] Mod 'supplementaries' attempted to override option 'mixin' with an invalid value, ignoring[Lithium] Mod 'supplementaries' attempted to override option 'mixins' with an invalid value, ignoring[Lithium] Mod 'supplementaries' attempted to override option 'block' with an invalid value, ignoring
+[23:53:58] [main] [LithiumConfig/INFO]: Option 'mixin.experimental.entity.block_caching.suffocation' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.suffocation=false'.
+[23:53:58] [main] [LithiumConfig/INFO]: Option 'mixin.experimental.entity.block_caching.block_support' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_support=false'.
+[23:53:58] [main] [LithiumConfig/INFO]: Option 'mixin.experimental.entity.block_caching.block_touching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_touching=false'.
+[23:53:58] [main] [LithiumConfig/INFO]: Option 'mixin.experimental.entity.block_caching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching=false'.
+[23:53:58] [main] [Lithium/INFO]: Loaded configuration file for Lithium: 148 options available, 0 override(s) found
+[23:53:58] [main] [mixin/WARN]: Reference map 'xaerolib.refmap.json' for xaerolib.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:58] [main] [mixin/WARN]: Reference map 'clumps.refmap.json' for clumps.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:58] [main] [Sodium/INFO]: Loaded configuration file for Sodium: 43 options available, 1 override(s) found
+[23:53:58] [main] [mixin/WARN]: Reference map 'moreculling.refmap.json' for moreculling.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:58] [main] [mixin/WARN]: Reference map 'drippyloadingscreen.refmap.json' for drippyloadingscreen.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:58] [main] [mixin/WARN]: Reference map 'drippyloadingscreen.refmap.json' for drippyloadingscreen.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:58] [main] [mixin/WARN]: Reference map 'craftingtweaks.refmap.json' for craftingtweaks.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:58] [main] [mixin/WARN]: Reference map 'createcasing.refmap.json' for createcasing.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:58] [main] [mixin/WARN]: Reference map 'Steam_Rails-neoforge-refmap.json' for railways.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:58] [main] [mixin/WARN]: Reference map 'nochatreports.refmap.json' for mixins/common/nochatreports.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:58] [main] [mixin/WARN]: Reference map 'ponder.refmap.json' for ponder-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:58] [main] [mixin/WARN]: Reference map 'mixins.createshufflefilter.refmap.json' for createshufflefilter.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:58] [main] [mixin/WARN]: Reference map 'xaerominimap.refmap.json' for xaerohud.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:58] [main] [mixin/WARN]: Reference map 'xaerominimap.refmap.json' for xaerominimap.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:58] [main] [mixin/WARN]: Reference map 'spiffyhud.refmap.json' for spiffyhud.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:58] [main] [mixin/WARN]: Reference map 'spiffyhud.refmap.json' for spiffyhud.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:58] [main] [mixin/WARN]: Reference map 'polymorph.refmap.json' for polymorph.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:58] [main] [mixin/WARN]: Reference map 'polymorph.refmap.json' for polymorph-compatibility.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:58] [main] [mixin/WARN]: Reference map 'immersive_paintings.refmap.json' for immersive_paintings.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:58] [main] [mixin/WARN]: Reference map 'entityculling.refmap.mixins.json' for entityculling.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:58] [main] [mixin/WARN]: Reference map 'cosmeticcorpsecompat.refmap.json' for cosmeticcorpsecompat.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:58] [main] [mixin/WARN]: Reference map 'fancymenu.refmap.json' for fancymenu.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:58] [main] [mixin/WARN]: Reference map 'fancymenu.refmap.json' for fancymenu.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:58] [main] [mixin/WARN]: Reference map 'create_vibrant_vaults.mixins.refmap.json' for create_vibrant_vaults.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:58] [main] [mixin/WARN]: Reference map 'watut.refmap.json' for watut.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:58] [main] [mixin/WARN]: Reference map '${refmap_target}refmap.json' for ferritecore.predicates.mixin.json could not be read. If this is a development environment you can ignore this message
+[23:53:58] [main] [mixin/WARN]: Reference map '${refmap_target}refmap.json' for ferritecore.fastmap.mixin.json could not be read. If this is a development environment you can ignore this message
+[23:53:58] [main] [mixin/WARN]: Reference map '${refmap_target}refmap.json' for ferritecore.mrl.mixin.json could not be read. If this is a development environment you can ignore this message
+[23:53:58] [main] [mixin/WARN]: Reference map '${refmap_target}refmap.json' for ferritecore.dedupmultipart.mixin.json could not be read. If this is a development environment you can ignore this message
+[23:53:58] [main] [mixin/WARN]: Reference map '${refmap_target}refmap.json' for ferritecore.blockstatecache.mixin.json could not be read. If this is a development environment you can ignore this message
+[23:53:58] [main] [mixin/WARN]: Reference map '${refmap_target}refmap.json' for ferritecore.dedupbakedquad.mixin.json could not be read. If this is a development environment you can ignore this message
+[23:53:58] [main] [mixin/WARN]: Reference map '${refmap_target}refmap.json' for ferritecore.threaddetec.mixin.json could not be read. If this is a development environment you can ignore this message
+[23:53:58] [main] [mixin/WARN]: Reference map '${refmap_target}refmap.json' for ferritecore.modelsides.mixin.json could not be read. If this is a development environment you can ignore this message
+[23:53:58] [main] [mixin/WARN]: Reference map '${refmap_target}refmap.json' for ferritecore.datacomponents.mixin.json could not be read. If this is a development environment you can ignore this message
+[23:53:58] [main] [mixin/WARN]: Reference map '${refmap_target}refmap.json' for ferritecore.accessors.mixin.json could not be read. If this is a development environment you can ignore this message
+[23:53:58] [main] [mixin/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:53:58] [main] [dev.tonimatas.packetfixer.mixins.v1_20_5_neoforge.MixinPlugin/INFO]: Packet Fixer neoforge 1.20.5-1.21.X has been applied successfully.
+[23:53:58] [main] [BadOptimizations/INFO]: Config version: 6
+[23:53:58] [main] [BadOptimizations/INFO]: BadOptimizations is generating the config with default values
+[23:53:58] [main] [BadOptimizations/INFO]: Generating config file version 6
+[23:53:59] [main] [KryptonFNP MixinBootstrap/INFO]: Mixin one.pkg.kfnp.mixin.network.experimental.RconClientMixin disabled
+[23:53:59] [main] [KryptonFNP MixinBootstrap/INFO]: Mixin one.pkg.kfnp.mixin.network.microopt.ServerEntityMixin enabled
+[23:53:59] [main] [KryptonFNP MixinBootstrap/INFO]: Mixin one.pkg.kfnp.mixin.network.microopt.Utf8StringMixin enabled
+[23:53:59] [main] [KryptonFNP MixinBootstrap/INFO]: Mixin one.pkg.kfnp.mixin.network.microopt.VarIntMixin enabled
+[23:53:59] [main] [KryptonFNP MixinBootstrap/INFO]: Mixin one.pkg.kfnp.mixin.network.microopt.VarLongMixin enabled
+[23:53:59] [main] [KryptonFNP MixinBootstrap/INFO]: Mixin one.pkg.kfnp.mixin.network.pipeline.LegacyQueryHandlerMixin enabled
+[23:53:59] [main] [KryptonFNP MixinBootstrap/INFO]: Mixin one.pkg.kfnp.mixin.network.pipeline.Varint21FrameDecoderMixin enabled
+[23:53:59] [main] [KryptonFNP MixinBootstrap/INFO]: Mixin one.pkg.kfnp.mixin.network.pipeline.compression.ConnectionMixin enabled
+[23:53:59] [main] [KryptonFNP MixinBootstrap/INFO]: Mixin one.pkg.kfnp.mixin.network.pipeline.encryption.ConnectionMixin enabled
+[23:53:59] [main] [KryptonFNP MixinBootstrap/INFO]: Mixin one.pkg.kfnp.mixin.network.pipeline.encryption.ServerLoginPacketListenerImplMixin enabled
+[23:53:59] [main] [KryptonFNP MixinBootstrap/INFO]: Mixin one.pkg.kfnp.mixin.network.pipeline.prepender.ConnectionMixin enabled
+[23:53:59] [main] [KryptonFNP MixinBootstrap/INFO]: Mixin one.pkg.kfnp.mixin.network.thread.ServerLoginPacketListenerImplMixin enabled
+[23:53:59] [main] [KryptonFNP MixinBootstrap/INFO]: Mixin one.pkg.kfnp.mixin.network.pipeline.encryption.ClientLoginMixin enabled
+[23:53:59] [main] [mixin/WARN]: Error loading class: com/portingdeadmods/cable_facades/events/GameClientEvents$2 (java.lang.ClassNotFoundException: com.portingdeadmods.cable_facades.events.GameClientEvents$2)
+[23:53:59] [main] [mixin/WARN]: Error loading class: com/direwolf20/justdirethings/client/renderers/OurRenderTypes (java.lang.ClassNotFoundException: com.direwolf20.justdirethings.client.renderers.OurRenderTypes)
+[23:53:59] [main] [mixin/WARN]: Error loading class: mekanism/client/render/entity/RenderFlame (java.lang.ClassNotFoundException: mekanism.client.render.entity.RenderFlame)
+[23:53:59] [main] [mixin/WARN]: Error loading class: mekanism/client/render/armor/MekaSuitArmor (java.lang.ClassNotFoundException: mekanism.client.render.armor.MekaSuitArmor)
+[23:53:59] [main] [mixin/WARN]: Error loading class: mekanism/client/render/lib/effect/BillboardingEffectRenderer (java.lang.ClassNotFoundException: mekanism.client.render.lib.effect.BillboardingEffectRenderer)
+[23:53:59] [main] [mixin/WARN]: Error loading class: blusunrize/immersiveengineering/client/utils/IEGLShaders (java.lang.ClassNotFoundException: blusunrize.immersiveengineering.client.utils.IEGLShaders)
+[23:53:59] [main] [mixin/WARN]: Error loading class: com/hrznstudio/emojiful/render/EmojiFontRenderer$EmojiCharacterRenderer (java.lang.ClassNotFoundException: com.hrznstudio.emojiful.render.EmojiFontRenderer$EmojiCharacterRenderer)
+[23:53:59] [main] [mixin/WARN]: @Mixin target com/hrznstudio/emojiful/render/EmojiFontRenderer$EmojiCharacterRenderer was not found chat_heads.mixins.json:compat.EmojifulMixin from mod chat_heads
+[23:53:59] [main] [mixin/WARN]: Error loading class: org/embeddedt/embeddium/impl/render/chunk/compile/pipeline/FluidRenderer (java.lang.ClassNotFoundException: org.embeddedt.embeddium.impl.render.chunk.compile.pipeline.FluidRenderer)
+[23:53:59] [main] [mixin/WARN]: Error loading class: traben/entity_model_features/models/parts/EMFModelPartCustom (java.lang.ClassNotFoundException: traben.entity_model_features.models.parts.EMFModelPartCustom)
+[23:54:00] [main] [mixin/WARN]: Error loading class: me/jellysquid/mods/sodium/client/model/light/data/ArrayLightDataCache (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.model.light.data.ArrayLightDataCache)
+[23:54:00] [main] [mixin/WARN]: Error loading class: me/jellysquid/mods/sodium/client/model/light/flat/FlatLightPipeline (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.model.light.flat.FlatLightPipeline)
+[23:54:00] [main] [mixin/WARN]: Error loading class: me/jellysquid/mods/sodium/client/model/light/data/LightDataAccess (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.model.light.data.LightDataAccess)
+[23:54:00] [main] [mixin/WARN]: Error loading class: net/fabricmc/fabric/impl/client/indigo/renderer/aocalc/AoCalculator (java.lang.ClassNotFoundException: net.fabricmc.fabric.impl.client.indigo.renderer.aocalc.AoCalculator)
+[23:54:00] [main] [mixin/WARN]: Error loading class: me/jellysquid/mods/lithium/common/ai/pathing/PathNodeDefaults (java.lang.ClassNotFoundException: me.jellysquid.mods.lithium.common.ai.pathing.PathNodeDefaults)
+[23:54:00] [main] [mixin/WARN]: Error loading class: jeresources/api/util/BiomeHelper (java.lang.ClassNotFoundException: jeresources.api.util.BiomeHelper)
+[23:54:00] [main] [mixin/WARN]: Error loading class: me/jellysquid/mods/lithium/common/ai/pathing/PathNodeDefaults (java.lang.ClassNotFoundException: me.jellysquid.mods.lithium.common.ai.pathing.PathNodeDefaults)
+[23:54:00] [main] [Sodium/WARN]: Force-disabling mixin 'features.render.world.sky.FogRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[23:54:00] [main] [Sodium/WARN]: Force-disabling mixin 'features.render.world.sky.ClientLevelMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[23:54:00] [main] [Sodium/WARN]: Force-disabling mixin 'features.render.world.sky.LevelRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[23:54:01] [main] [mixin/WARN]: Error loading class: net/minecraft/client/gui/screens/controls/KeyBindsList$KeyEntry (java.lang.ClassNotFoundException: net.minecraft.client.gui.screens.controls.KeyBindsList$KeyEntry)
+[23:54:01] [main] [mixin/WARN]: @Mixin target net.minecraft.client.gui.screens.controls.KeyBindsList$KeyEntry was not found railways-common.mixins.json:client.MixinKeyBindsListKeyEntry from mod railways
+[23:54:01] [main] [mixin/WARN]: Error loading class: com/hrznstudio/emojiful/render/EmojiFontRenderer$EmojiCharacterRenderer (java.lang.ClassNotFoundException: com.hrznstudio.emojiful.render.EmojiFontRenderer$EmojiCharacterRenderer)
+[23:54:01] [main] [mixin/WARN]: Error loading class: com/hrznstudio/emojiful/render/EmojiFontRenderer$EmojiCharacterRenderer (java.lang.ClassNotFoundException: com.hrznstudio.emojiful.render.EmojiFontRenderer$EmojiCharacterRenderer)
+[23:54:01] [main] [mixin/WARN]: Error loading class: me/jellysquid/mods/sodium/client/model/light/data/ArrayLightDataCache (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.model.light.data.ArrayLightDataCache)
+[23:54:01] [main] [mixin/WARN]: Error loading class: me/jellysquid/mods/sodium/client/model/light/data/ArrayLightDataCache (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.model.light.data.ArrayLightDataCache)
+[23:54:01] [main] [mixin/WARN]: Error loading class: me/jellysquid/mods/sodium/client/model/light/flat/FlatLightPipeline (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.model.light.flat.FlatLightPipeline)
+[23:54:01] [main] [mixin/WARN]: Error loading class: me/jellysquid/mods/sodium/client/model/light/flat/FlatLightPipeline (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.model.light.flat.FlatLightPipeline)
+[23:54:01] [main] [mixin/WARN]: Error loading class: me/jellysquid/mods/sodium/client/model/light/data/LightDataAccess (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.model.light.data.LightDataAccess)
+[23:54:01] [main] [mixin/WARN]: Error loading class: me/jellysquid/mods/sodium/client/model/light/data/LightDataAccess (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.model.light.data.LightDataAccess)
+[23:54:02] [main] [mixin/WARN]: Error loading class: org/jetbrains/annotations/ApiStatus$Internal (java.lang.ClassNotFoundException: org.jetbrains.annotations.ApiStatus$Internal)
+[23:54:02] [main] [mixin/WARN]: Error loading class: org/embeddedt/embeddium/impl/gui/EmbeddiumGameOptionPages (java.lang.ClassNotFoundException: org.embeddedt.embeddium.impl.gui.EmbeddiumGameOptionPages)
+[23:54:02] [main] [mixin/WARN]: Error loading class: org/embeddedt/embeddium/impl/gui/EmbeddiumGameOptionPages (java.lang.ClassNotFoundException: org.embeddedt.embeddium.impl.gui.EmbeddiumGameOptionPages)
+[23:54:02] [main] [mixin/WARN]: Error loading class: org/embeddedt/embeddium/impl/gui/EmbeddiumGameOptionPages (java.lang.ClassNotFoundException: org.embeddedt.embeddium.impl.gui.EmbeddiumGameOptionPages)
+[23:54:02] [main] [mixin/WARN]: Error loading class: org/jetbrains/annotations/ApiStatus$ScheduledForRemoval (java.lang.ClassNotFoundException: org.jetbrains.annotations.ApiStatus$ScheduledForRemoval)
+[23:54:02] [main] [MixinExtras|Service/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.3).
+
+# Process exited with status: exit code: 0

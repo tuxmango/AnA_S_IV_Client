@@ -1,0 +1,20 @@
+[28Mar2026 00:07:21.022] [Render thread/INFO] [de.keksuccino.fancymenu.customization.layer.ScreenCustomizationLayerHandler/]: [FANCYMENU] ScreenCustomizationLayer registered: death_screen
+[28Mar2026 00:07:21.059] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [CHAT] tuxmango hit the ground too hard
+[28Mar2026 00:07:21.492] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [CHAT] ARMOR BONUS DEACTIVATED!
+[28Mar2026 00:07:22.882] [Render thread/INFO] [xaero.hud.minimap.MinimapLogs/]: Minimap updated server level id: -1080529062 for world ResourceKey[minecraft:dimension / minecraft:overworld]
+[28Mar2026 00:07:28.673] [Render thread/INFO] [de.keksuccino.fancymenu.customization.layer.ScreenCustomizationLayerHandler/]: [FANCYMENU] ScreenCustomizationLayer registered: pause_screen
+[28Mar2026 00:07:29.649] [Render thread/INFO] [xaero.map.WorldMap/]: Finalizing world map session...
+[28Mar2026 00:07:29.693] [Thread-24/INFO] [xaero.map.WorldMap/]: World map cleaned normally!
+[28Mar2026 00:07:30.080] [Render thread/INFO] [xaero.map.WorldMap/]: World map session finalized.
+[28Mar2026 00:07:30.080] [Render thread/INFO] [xaero.hud.minimap.MinimapLogs/]: Xaero hud session finalized.
+[28Mar2026 00:07:30.084] [Render thread/INFO] [mezz.jei.library.startup.JeiStarter/]: Stopping JEI
+[28Mar2026 00:07:30.085] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime Unavailable...
+[28Mar2026 00:07:30.086] [Render thread/INFO] [mezz.jei.neoforge.plugins.neoforge.NeoForgeGuiPlugin/]: Stopping JEI GUI
+[28Mar2026 00:07:30.088] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime Unavailable took 2.601 milliseconds
+[28Mar2026 00:07:30.123] [Render thread/INFO] [voicechat/]: [voicechat] Clearing audio channels
+[28Mar2026 00:07:30.141] [Render thread/INFO] [voicechat/]: [voicechat] Disconnecting voicechat
+[28Mar2026 00:07:30.145] [Render thread/INFO] [ChunkBuilder/]: Stopping worker threads
+[28Mar2026 00:07:31.933] [CullThread/INFO] [STDOUT/]: [dev.tr7zw.entityculling.CullTask:run:89]: Shutting down culling task!
+[28Mar2026 00:07:31.946] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!
+[28Mar2026 00:07:31.947] [Render thread/INFO] [DragonLib Networking System/]: Shutting down network threads. Please wait...
+[28Mar2026 00:07:31.947] [Render thread/INFO] [DragonLib Networking System/]: Network threads shut down. Took 0ms.
