@@ -1,4 +1,0 @@
-	[createunlimitedlogistics.configuration]
-		# Default: 64
-		# Range: 1 ~ 423
-		slot_max = 64

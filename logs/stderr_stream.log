@@ -1,5 +1,0 @@
------------------------------------------------------------------------------------
-DateTime: 27.03.2026 23:53:46:219 +01:00; PID: 12260
-This file contains the stderr stream of the Minecraft process logged to a file.
-It does not include stdout or log (log4j) messages to avoid performance impact.
------------------------------------------------------------------------------------
