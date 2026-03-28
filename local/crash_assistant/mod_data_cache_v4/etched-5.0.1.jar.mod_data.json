@@ -1,0 +1,1 @@
+{"jarName":"etched-5.0.1.jar","modId":"etched","name":"Etched","version":"5.0.1","mixinConfigs":["etched.mixins.json"],"jarJarMods":[{"jarName":"jlayer-1.0.3.jar","mixinConfigs":[],"jarJarMods":[],"pathFromJarJar":"/META-INF/jarjar/"}],"curseForgeHash":4129460058,"modrinthHash":"168c8299d8656abbbbcaefca71dff0bb2fe9a839"}
