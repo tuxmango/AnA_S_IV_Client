@@ -1,1 +1,12 @@
-{}
+{
+	"shown_reasons": {
+		"Create6Addons": true,
+		"MissingUnsupportedDependencies": true,
+		"ScriptedAnalysis": true
+	},
+	"analysis": {
+		"jdeps": {
+			"include_nested": true
+		}
+	}
+}

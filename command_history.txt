@@ -1,1 +1,27 @@
 /spark
+/tab reload
+/tp 0 100 0
+/chunky center
+/chunky start minecraft:overworld square 0 0 2000 2000
+/chunky cancel
+/chunky confirm
+/chunky start minecraft:overworld square 0 0 500 500
+/tp 0 100 0
+/chunky start minecraft:overworld square 0 0 1000 1000
+/spark profiler open
+/spark ping
+/spark
+/tps
+/neoforge tps
+/chunky start minecraft:overworld square 0 0 2000 2000
+/reload
+/spark ping
+/spark profiler
+/spark profiler open
+/give tuxmango create:shaft
+/reload_discord_chat_mod_config
+/reload
+/time set night
+/reload
+/reload_discord_chat_mod_config
+/reload

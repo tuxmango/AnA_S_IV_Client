@@ -1,13 +1,13 @@
-[09:44:16] [INIT] KubeJS 2101.7.2-build.348; MC 2101 NeoForge
-[09:44:16] [INIT] Loaded plugins:
-[09:44:16] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSPlugin
-[09:44:16] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSClientPlugin
-[09:44:16] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
-[09:44:16] [INIT] - pro.mikey.kubeutils.kubejs.KubeUtilsPlugin
-[09:44:16] [INIT] - fr.iglee42.createcasing.kubejs.EncasedKJSPlugin
-[09:44:16] [INIT] - com.almostreliable.ponderjs.KubePlugin
-[09:44:16] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[09:44:16] [INFO] client_scripts:main.js#2: Hello, World! (Loaded client example script)
-[09:44:16] [INFO] Loaded script client_scripts:main.js in 0.001 s
-[09:44:16] [INFO] Loaded 1/1 KubeJS client scripts in 0.053 s with 0 errors and 0 warnings
-[09:44:25] [INFO] Client resource reload complete!
+[22:38:49] [INIT] KubeJS 2101.7.2-build.348; MC 2101 NeoForge
+[22:38:49] [INIT] Loaded plugins:
+[22:38:49] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSPlugin
+[22:38:49] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSClientPlugin
+[22:38:49] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
+[22:38:49] [INIT] - pro.mikey.kubeutils.kubejs.KubeUtilsPlugin
+[22:38:49] [INIT] - fr.iglee42.createcasing.kubejs.EncasedKJSPlugin
+[22:38:49] [INIT] - com.almostreliable.ponderjs.KubePlugin
+[22:38:49] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[22:38:49] [INFO] client_scripts:main.js#2: Hello, World! (Loaded client example script)
+[22:38:49] [INFO] Loaded script client_scripts:main.js in 0.0 s
+[22:38:49] [INFO] Loaded 1/1 KubeJS client scripts in 0.094 s with 0 errors and 0 warnings
+[22:38:53] [INFO] Client resource reload complete!
