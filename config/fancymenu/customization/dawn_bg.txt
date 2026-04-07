@@ -1,0 +1,40 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = %fancymenu:universal_layout%
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1775526380864
+  is_enabled = true
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:fa03a25c-04e3-459c-9b66-769854cc944b-1775526569685] = [groups:][instances:c73d63ed-e542-41a6-80ca-03693e8e3ee6-1775525916199;]
+  [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:c73d63ed-e542-41a6-80ca-03693e8e3ee6-1775525916199] = partOfDay:3
+}
+
+menu_background {
+  panorama_name = s3panorama
+  instance_identifier = 79cac809-733f-4b5c-a704-609d25ee075f-1775410612593
+  background_type = panorama
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = false
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+  show_screen_background_overlay_on_custom_background = false
+  apply_vanilla_background_blur = false
+}
+
+layout_action_executable_blocks {
+}
+

@@ -1,0 +1,40 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = %fancymenu:universal_layout%
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1775563343529
+  is_enabled = true
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  custom_menu_title = A&A
+  [loading_requirement_container_meta:6448125e-2704-4bbe-9cfd-f0eef09474fc-1775563334725] = [groups:][instances:]
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = false
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+  show_screen_background_overlay_on_custom_background = false
+  apply_vanilla_background_blur = true
+}
+
+layout_action_executable_blocks {
+  open_screen_executable_block_identifier = e9263ceb-f0aa-42f0-8ec8-682ebae4098e-1775409619410
+  [executable_action_instance:04670061-a9db-4b61-80a6-524e10d07bab-1775522573756][action_type:set_variable] = partOfDay:{"placeholder":"crop_text","values":{"text":" {"placeholder":"math_floor","values":{"num":"{"placeholder":"calc","values":{"expression":"{"placeholder":"realtimehour"} / 6","decimal":"true"}}"}} ","remove_from_start":"1","remove_from_end":"3"}}
+  [executable_block:bf879cb3-c40d-4bac-8a5e-528e82ac8d8e-1775521739211][type:folder] = [executables:04670061-a9db-4b61-80a6-524e10d07bab-1775522573756;]
+  [folder_executable_block_name:bf879cb3-c40d-4bac-8a5e-528e82ac8d8e-1775521739211] = Set Time and disable layouts
+  [folder_executable_block_collapsed:bf879cb3-c40d-4bac-8a5e-528e82ac8d8e-1775521739211] = false
+  [executable_block:e9263ceb-f0aa-42f0-8ec8-682ebae4098e-1775409619410][type:generic] = [executables:bf879cb3-c40d-4bac-8a5e-528e82ac8d8e-1775521739211;]
+}
+

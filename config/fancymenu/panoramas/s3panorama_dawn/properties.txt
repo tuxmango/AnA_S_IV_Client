@@ -1,0 +1,9 @@
+type = panorama
+
+panorama-meta {
+  name = s3panorama
+  speed = 2.0
+  fov = 90.0
+  angle = 0.0
+  start_rotation = 180
+}
