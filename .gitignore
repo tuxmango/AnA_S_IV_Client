@@ -1,8 +1,9 @@
 
 /crash-reports
 /local
-/local/crash_assistant
 /logs
 icon.png
 /dynamic-resource-pack-cache
+/dynamic-data-pack-cache
 config/iris.properties
+/fancymenu_data
