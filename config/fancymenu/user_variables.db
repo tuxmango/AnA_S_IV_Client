@@ -2,7 +2,7 @@ type = user_variables
 
 variable {
   name = partOfDay
-  value = 2
+  value = 3
   reset_on_launch = false
 }
 
