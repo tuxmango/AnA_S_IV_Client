@@ -4,3 +4,5 @@
 /local/crash_assistant
 /logs
 icon.png
+/dynamic-resource-pack-cache
+config/iris.properties

@@ -1,8 +1,8 @@
 {
   "quality": {
-    "weather_quality": "FAST",
-    "leaves_quality": "FAST",
-    "enable_vignette": true
+    "weather_quality": "DEFAULT",
+    "leaves_quality": "DEFAULT",
+    "enable_vignette": false
   },
   "advanced": {
     "enable_memory_tracing": false,
@@ -21,7 +21,7 @@
   },
   "notifications": {
     "has_cleared_donation_button": false,
-    "has_seen_donation_prompt": false
+    "has_seen_donation_prompt": true
   },
   "debug": {
     "terrain_sorting_enabled": true
