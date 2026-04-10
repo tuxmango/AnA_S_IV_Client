@@ -1,0 +1,17 @@
+filename = 'lightmanscurrency-1.21-2.3.0.4e.jar'
+name = "Lightman's Currency"
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21-2.3.0.4e'
+
+[download]
+hash = '16f9fdde3a78c7bf630d852d8ee081d7138effcc4ac187bb9ddbeb69ac71c1dfc4c32a4c0b36acde10b5cd4b661693d77d1b2d0f49e757887707587a55373015'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/wvMc8AJt/versions/DCVYBw7Y/lightmanscurrency-1.21-2.3.0.4e.jar'
+
+[update.modrinth]
+mod-id = 'wvMc8AJt'
+version = 'DCVYBw7Y'

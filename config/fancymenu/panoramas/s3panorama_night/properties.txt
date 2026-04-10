@@ -1,7 +1,7 @@
 type = panorama
 
 panorama-meta {
-  name = s3panorama_watercolor
+  name = s3panorama_night
   speed = 2.0
   fov = 90.0
   angle = 0.0
