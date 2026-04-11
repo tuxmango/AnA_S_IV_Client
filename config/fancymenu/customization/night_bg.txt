@@ -3,18 +3,18 @@ type = fancymenu_layout
 layout-meta {
   identifier = %fancymenu:universal_layout%
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1775527044221
+  last_edited_time = 1775858709337
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:aba0ed85-338f-4519-bc22-106b05341264-1775527040767] = [groups:][instances:57c92685-00d9-4fd4-87f3-01c24b82e4a1-1775525966569;]
+  [loading_requirement_container_meta:4a62f64c-1a43-4c37-9b4f-99cc52d5fc23-1775858638124] = [groups:][instances:57c92685-00d9-4fd4-87f3-01c24b82e4a1-1775525966569;]
   [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:57c92685-00d9-4fd4-87f3-01c24b82e4a1-1775525966569] = partOfDay:0
 }
 
 menu_background {
-  panorama_name = s3panorama_watercolor
+  panorama_name = s3panorama_night
   instance_identifier = 074a3079-4d7d-4276-b0f9-95652235e04f-1775523086502
   background_type = panorama
 }

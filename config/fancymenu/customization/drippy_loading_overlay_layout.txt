@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = drippy_loading_overlay
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1775739783243
+  last_edited_time = 1775857002800
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:220afa6d-8bca-4426-8739-45c2bccaa66c-1775739757274] = [groups:][instances:]
+  [loading_requirement_container_meta:0b247662-56c4-4c3f-b233-e82188048c9f-1775856988340] = [groups:][instances:]
 }
 
 customization {
@@ -24,9 +24,9 @@ customization {
 }
 
 menu_background {
-  panorama_name = s3panorama
-  instance_identifier = 07a0d207-81c3-4e33-a841-9211f417b8aa-1774836646258
-  background_type = panorama
+  color = #0D67B0
+  instance_identifier = 58abbd5e-fddb-41c4-8d66-3d1b213a32ac-1775856715749
+  background_type = color_fancymenu
 }
 
 customization {
@@ -71,7 +71,7 @@ element {
   sticky_anchor = false
   anchor_point = mid-centered
   x = -352
-  y = -145
+  y = -125
   width = 707
   height = 133
   stretch_x = false
@@ -117,9 +117,10 @@ element {
   auto_sizing_base_screen_width = 1920
   auto_sizing_base_screen_height = 1014
   sticky_anchor = false
-  anchor_point = mid-centered
-  x = 205
-  y = 38
+  anchor_point = element
+  anchor_point_element = 0a91f035-c949-46cb-acaa-e61d871b185c-1774836763717
+  x = 657
+  y = 30
   width = 100
   height = 20
   stretch_x = false
@@ -175,12 +176,12 @@ vanilla_button {
   fade_out_speed = 1.0
   base_opacity = 1.0
   auto_sizing = false
-  auto_sizing_base_screen_width = 801
-  auto_sizing_base_screen_height = 485
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1014
   sticky_anchor = false
   anchor_point = mid-centered
-  x = -251
-  y = 50
+  x = -255
+  y = 118
   width = 506
   height = 17
   stretch_x = false
