@@ -16,3 +16,10 @@ config/iris.properties
 /emojiful
 /.mixin.out
 /XaeroWaypoints_BACKUP240807
+servers.dat
+servers.dat_old
+usercache.json
+usernamecache.json
+observable_announce
+emi.json
+command_history.txt
